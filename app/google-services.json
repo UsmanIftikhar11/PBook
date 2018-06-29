@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "925110607349",
+    "firebase_url": "https://pbook-32b66.firebaseio.com",
+    "project_id": "pbook-32b66",
+    "storage_bucket": "pbook-32b66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925110607349:android:b7615961a60e5902",
+        "android_client_info": {
+          "package_name": "com.example.pbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925110607349-gsl2iej6tibik04t83imft5p7s647bk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pbook",
+            "certificate_hash": "17757cbc3fea88cf58498ed656ed3f5440edd7f1"
+          }
+        },
+        {
+          "client_id": "925110607349-t52di03ipna19v27mpj94fc802fem9lb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "925110607349-t52di03ipna19v27mpj94fc802fem9lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfDIaMes-jKHH9M-8iTSw8ntvkzHHr67o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925110607349-t52di03ipna19v27mpj94fc802fem9lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
